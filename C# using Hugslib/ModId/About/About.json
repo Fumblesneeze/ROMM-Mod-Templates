@@ -1,0 +1,20 @@
+{
+    "id": "{ModId}",
+    "name": "{ModId}",
+    "version": "0.0.1",
+    "targetGameVersion": "{Version3}",
+    "authors": "",
+    "description": "",
+    "preview": "",
+    "category": "Content",
+    "source": {
+    },
+    "relationships": {
+        "requires": [
+        "HugsLib"
+        ]
+    },
+    "support": "",
+    "created": "",
+    "changeLog": "Test Version"
+}
