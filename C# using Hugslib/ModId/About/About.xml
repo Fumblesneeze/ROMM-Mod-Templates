@@ -2,9 +2,11 @@
 <ModMetaData>
   <name>{ModId}</name>
   <targetVersion>{Version3}</targetVersion>
-  <author>Author</author>
-  <url>Url</url>
+  <author>{Author}</author>
+  <url>{Url}</url>
   <description>
 Put Description here.
+
+{Url}
   </description>
 </ModMetaData>

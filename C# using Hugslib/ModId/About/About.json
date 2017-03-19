@@ -3,9 +3,10 @@
     "name": "{ModId}",
     "version": "0.0.1",
     "targetGameVersion": "{Version3}",
-    "authors": "",
+    "authors": "{Author}",
     "description": "",
     "preview": "",
+    "homePage": "{Url}",
     "category": "Content",
     "source": {
     },
@@ -15,6 +16,6 @@
         ]
     },
     "support": "",
-    "created": "",
-    "changeLog": "Test Version"
+    "created": "{Date}",
+    "changeLog": "Initial Version"
 }
