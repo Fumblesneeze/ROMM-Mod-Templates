@@ -32,6 +32,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>Source-DLLs\0Harmony.dll</HintPath>
+    </Reference>
     <Reference Include="%24HugsLibChecker">
       <HintPath>Source-DLLs\$HugsLibChecker.dll</HintPath>
     </Reference>
