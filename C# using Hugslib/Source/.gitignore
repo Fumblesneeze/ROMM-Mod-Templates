@@ -272,6 +272,7 @@ FakesAssemblies/
 node_modules/
 
 # Typescript v1 declaration files
+
 typings/
 
 # Visual Studio 6 build log
@@ -332,3 +333,4 @@ __pycache__/
 UnityEngine.dll
 HugsLib.dll
 Assembly-CSharp.dll
+Source-DLLs
