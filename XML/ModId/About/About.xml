@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>{ModId}</name>
-  <targetVersion>{Version3}</targetVersion>
+  <supportedVersions><li>{Version3}</li></supportedVersions>
   <author>{Author}</author>
   <url>{Url}</url>
   <description>

@@ -2,7 +2,7 @@
     "id": "{ModId}",
     "name": "{ModId}",
     "version": "0.0.1",
-    "targetGameVersion": "{Version3}",
+    "supportedVersions":[ "{Version3}" ],
     "authors": "{Author}",
     "description": "",
     "preview": "",
@@ -11,9 +11,6 @@
     "source": {
     },
     "relationships": {
-        "requires": [
-        "HugsLib"
-        ]
     },
     "support": "",
     "created": "{Date}",
