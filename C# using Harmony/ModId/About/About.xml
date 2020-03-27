@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
+  <packageId>{ModId}</packageId>
   <name>{ModId}</name>
-  <supportedVersions><li>{Version3}</li></supportedVersions>
+  <supportedVersions><li>{Version2}</li></supportedVersions>
   <author>{Author}</author>
   <url>{Url}</url>
   <description>
@@ -9,4 +10,13 @@ Put Description here.
 
 {Url}
   </description>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+  </loadAfter>
 </ModMetaData>

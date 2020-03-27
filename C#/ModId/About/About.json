@@ -1,5 +1,5 @@
 {
-    "id": "{ModId}",
+    "packageId": "{ModId}",
     "name": "{ModId}",
     "version": "0.0.1",
     "supportedVersions":[ "{Version3}" ],

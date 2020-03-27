@@ -1,5 +1,5 @@
 {
-    "id": "{ModId}",
+    "packageId": "{ModId}",
     "name": "{ModId}",
     "version": "0.0.1",
     "supportedVersions":[ "{Version3}" ],
@@ -11,6 +11,14 @@
     "source": {
     },
     "relationships": {
+      "requires": [
+        "brrainz.harmony",
+        "UnlimitedHugs.HugsLib"
+      ],
+      "after": [
+        "brrainz.harmony",
+        "UnlimitedHugs.HugsLib"
+      ]
     },
     "support": "",
     "created": "{Date}",
