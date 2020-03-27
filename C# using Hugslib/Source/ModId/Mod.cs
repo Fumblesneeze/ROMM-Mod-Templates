@@ -1,3 +1,4 @@
+using HarmonyLib;
 using HugsLib;
 using System;
 using System.Collections.Generic;
@@ -13,6 +14,8 @@ namespace {ModId}
 
         public override void Initialize()
         {
+            var harmony = new Harmony("{ModId}");
+            harmony.PatchAll();
         }
     }
 }

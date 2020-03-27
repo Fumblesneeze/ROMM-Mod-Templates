@@ -35,9 +35,6 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="%24HugsLibChecker">
-      <HintPath>Source-DLLs\$HugsLibChecker.dll</HintPath>
-    </Reference>
     <Reference Include="0Harmony">
       <HintPath>Source-DLLs\0Harmony.dll</HintPath>
       <Private>False</Private>
